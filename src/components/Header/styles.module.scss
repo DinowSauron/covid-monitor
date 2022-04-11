@@ -1,0 +1,24 @@
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  width: 100%;
+  height: fit-content;
+  padding: 8px;
+
+  color: #52a;
+
+  h1 {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  p {
+    margin: 0;
+  }
+
+  select {
+    height: 2rem;
+  }
+}
