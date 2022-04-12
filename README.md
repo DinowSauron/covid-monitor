@@ -4,7 +4,7 @@ Neste Projeto você consegue monitorar os casos de covid 19 do dia atual em cert
 
 Projeto simples seguindo instruções do bootcamp Web Developer Carrefour.
 
-<img src="./covid-monitor/public/painel.png"/>
+<img src="./public/painel.png"/>
 
 ## Tecnologias utilizadas:
 * ReactJS
